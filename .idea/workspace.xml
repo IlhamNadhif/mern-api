@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf78a6d7-84b6-4dac-9b46-69952426ec15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controllers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615366175705-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367297250-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367305690-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367310823-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367316265-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367323077-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367328634-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367334009-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367339802-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367344995-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367352236-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1615367356822-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/blog.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BelajarNodeJS/middleware" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,6 +56,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -68,7 +76,13 @@
       <workItem from="1615272723528" duration="8411000" />
       <workItem from="1615281746443" duration="143000" />
       <workItem from="1615290318689" duration="4126000" />
-      <workItem from="1615342700113" duration="1658000" />
+      <workItem from="1615342700113" duration="14426000" />
+      <workItem from="1615427556543" duration="1760000" />
+      <workItem from="1615521444403" duration="708000" />
+      <workItem from="1615529839317" duration="2850000" />
+      <workItem from="1615614210806" duration="499000" />
+      <workItem from="1615615261058" duration="808000" />
+      <workItem from="1615991385911" duration="335000" />
     </task>
     <servers />
   </component>
